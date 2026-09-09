@@ -1,0 +1,7 @@
+{
+  "name": "ScanMyFood",
+  "description": "AI-powered food ingredient and nutrition label scanner. Scan your food and know what's inside with simple explanations in English and Hindi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
